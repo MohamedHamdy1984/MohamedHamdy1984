@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hey, I'm Mohamed Hamdy!
 
-<!--
-**MohamedHamdy1984/MohamedHamdy1984** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### I'm a WordPress developer!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I graduated from the faculty of engineering - computer and systems discipline in 2010!
+I worked as a telecom Engineer, and I had a lot of stories there, some were sad and most were happy.
+I worked in multinational companies for great clients.
+But from 3 years I decided to follow my old passion and back to programming.
+I took some time to find the suitable branch for me, and I took my time.
+And now is the time to start a new journey as a freelancer WordPress developer.
+
+---
